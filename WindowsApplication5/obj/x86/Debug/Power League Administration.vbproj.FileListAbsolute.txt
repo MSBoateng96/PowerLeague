@@ -1,0 +1,3 @@
+C:\Users\Michael\SkyDrive\Documents\A2 Level\Computer Science\F454 Computing Project\Coursework\Visual Studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\Michael\SkyDrive\Documents\A2 Level\Computer Science\F454 Computing Project\Coursework\Visual Studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\Michael\SkyDrive\Documents\A2 Level\Computer Science\F454 Computing Project\Coursework\Visual Studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
